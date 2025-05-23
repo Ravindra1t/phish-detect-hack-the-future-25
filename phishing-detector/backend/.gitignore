@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Unit test / coverage
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Django or Flask specific
+*.sqlite3
+instance/
+*.db
+
+# Node.js (if frontend or extension is using npm)
+node_modules/
+package-lock.json
+
+# Chrome Extension build artifacts
+*.zip
+*.crx
+
+# IDE-specific
+.idea/
+*.iml
+
+# Misc
+*.bak
+*.swp

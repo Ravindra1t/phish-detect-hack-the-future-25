@@ -1,0 +1,7 @@
+Flask
+Flask-CORS
+joblib
+scikit-learn  # TF-IDF vectorizer is part of scikit-learn
+xgboost       # For the XGBoost model
+# numpy (often a dependency, but good to list if you use it directly)
+# pandas (not strictly needed for the single URL prediction in app.py anymore)
